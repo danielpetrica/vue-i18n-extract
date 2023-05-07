@@ -68,7 +68,7 @@
     "@types/jest": "^24.0.10",
     "@types/lodash": "^4.14.122",
     "@types/yargs": "^12.0.9",
-    "jest": "^24.3.1",
+    "jest": "^29.5.0",
     "ts-jest": "^24.0.0",
     "tslint": "^5.13.1",
     "typescript": "^3.2.2",
